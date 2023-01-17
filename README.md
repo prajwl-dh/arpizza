@@ -1,2 +1,3 @@
-# project1mcneeseblue
-# Members : Prajwal Dhungana, Suraj Khanal, Rita Khadka, Upendra Adhikari
+This is a website for a pizza restaurant with working frontend and backend. We made this website as a group project for our Web Development Class
+
+Link to the website : arpizza.store
